@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TOBIK</Machine>
+    <WindowsUser>Филиппов</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>60c55f50-a27f-4c1b-9dee-55a456068301</PackageIdentityName>
+    <IntermediateOutputPath>D:\Pract\AniTube\AniTube\AniTube.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C68BCF748B99C0340318052F5A4A4289A1B51E3006EC015FABF4C10582FD0818</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>60c55f50-a27f-4c1b-9dee-55a456068301_1.0.0.0_neutral__nre9gfn5t42mt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>60c55f50-a27f-4c1b-9dee-55a456068301_nre9gfn5t42mt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>60c55f50-a27f-4c1b-9dee-55a456068301</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Филиппов</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Pract\AniTube\AniTube\AniTube.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-21T09:55:53.051</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\bin\Debug\AniTube.Windows.exe">
+      <PackagePath>AniTube.Windows.exe</PackagePath>
+      <Modified>2015-07-21T09:55:52.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-27T01:36:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-27T01:36:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-27T01:36:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-27T01:36:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-07-21T07:39:34.847</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\bin\Debug\MainView.xbf">
+      <PackagePath>MainView.xbf</PackagePath>
+      <Modified>2015-07-21T09:55:52.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\bin\Debug\AniTube.Windows.xr.xml">
+      <PackagePath>AniTube.Windows.xr.xml</PackagePath>
+      <Modified>2015-07-21T09:55:51.952</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-07-21T09:55:52.569</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

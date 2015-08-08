@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TOBIK</Machine>
+    <WindowsUser>Филиппов</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>60c55f50-a27f-4c1b-9dee-55a456068301</PackageIdentityName>
+    <IntermediateOutputPath>D:\Pract\AniTube\AniTube\AniTube.Windows\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Pract\AniTube\AniTube\AniTube.Windows\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\bin\x86\Debug\AniTube.Windows.exe">
+      <PackagePath>AniTube.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.PlayerFramework.Xaml\2.0.0.0\References\CommonConfiguration\neutral\Microsoft.PlayerFramework.dll">
+      <PackagePath>Microsoft.PlayerFramework.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\References\CommonConfiguration\neutral\Telerik.Core.dll">
+      <PackagePath>Telerik.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\References\CommonConfiguration\neutral\Telerik.Data.dll">
+      <PackagePath>Telerik.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\References\CommonConfiguration\neutral\Telerik.UI.Xaml.Chart.dll">
+      <PackagePath>Telerik.UI.Xaml.Chart.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\References\CommonConfiguration\neutral\Telerik.UI.Xaml.Controls.Data.dll">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\References\CommonConfiguration\neutral\Telerik.UI.Xaml.DataVisualization.dll">
+      <PackagePath>Telerik.UI.Xaml.DataVisualization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\References\CommonConfiguration\neutral\Telerik.UI.Xaml.Grid.dll">
+      <PackagePath>Telerik.UI.Xaml.Grid.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\References\CommonConfiguration\neutral\Telerik.UI.Xaml.Input.dll">
+      <PackagePath>Telerik.UI.Xaml.Input.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\References\CommonConfiguration\neutral\Telerik.UI.Xaml.Primitives.dll">
+      <PackagePath>Telerik.UI.Xaml.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\packages\MvvmLightLibs.5.1.1.0\lib\windows81\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\packages\MvvmLightLibs.5.1.1.0\lib\windows81\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\packages\MvvmLightLibs.5.1.1.0\lib\windows81\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\packages\Newtonsoft.Json.7.0.1\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Input\Themes\Calendar.xbf">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\Calendar.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.PlayerFramework.Xaml\2.0.0.0\Redist\CommonConfiguration\neutral\Microsoft.PlayerFramework\Themes\Classic.xbf">
+      <PackagePath>Microsoft.PlayerFramework\Themes\Classic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Input\Themes\CommonResources.xbf">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\CommonResources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.PlayerFramework.Xaml\2.0.0.0\Redist\CommonConfiguration\neutral\Microsoft.PlayerFramework\Themes\Entertainment.xbf">
+      <PackagePath>Microsoft.PlayerFramework\Themes\Entertainment.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.PlayerFramework.Xaml\2.0.0.0\Redist\CommonConfiguration\neutral\Microsoft.PlayerFramework\Themes\Generic.xbf">
+      <PackagePath>Microsoft.PlayerFramework\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Chart\Themes\Generic.xbf">
+      <PackagePath>Telerik.UI.Xaml.Chart\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Controls.Data\Themes\Generic.xbf">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.DataVisualization\Themes\Generic.xbf">
+      <PackagePath>Telerik.UI.Xaml.DataVisualization\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Grid\Themes\Generic.xbf">
+      <PackagePath>Telerik.UI.Xaml.Grid\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Input\Themes\Generic.xbf">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Primitives\Themes\Generic.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Primitives\Themes\HubTilePalette.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\HubTilePalette.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Controls.Data\Themes\Listbox.xbf">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data\Themes\Listbox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.PlayerFramework.Xaml\2.0.0.0\Redist\CommonConfiguration\neutral\Microsoft.PlayerFramework\Themes\Phone.xbf">
+      <PackagePath>Microsoft.PlayerFramework\Themes\Phone.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.DataVisualization\Themes\Resources.xbf">
+      <PackagePath>Telerik.UI.Xaml.DataVisualization\Themes\Resources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Grid\Themes\Resources.xbf">
+      <PackagePath>Telerik.UI.Xaml.Grid\Themes\Resources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Input\Themes\Resources.xbf">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\Resources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Primitives\Themes\Resources.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\Resources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Primitives\Themes\ThemeColorsDark.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\ThemeColorsDark.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Primitives\Themes\ThemeColorsLight.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\ThemeColorsLight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Chart\Themes\ThemeResourcesDark.xbf">
+      <PackagePath>Telerik.UI.Xaml.Chart\Themes\ThemeResourcesDark.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesDark.xbf">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesDark.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.DataVisualization\Themes\ThemeResourcesDark.xbf">
+      <PackagePath>Telerik.UI.Xaml.DataVisualization\Themes\ThemeResourcesDark.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Grid\Themes\ThemeResourcesDark.xbf">
+      <PackagePath>Telerik.UI.Xaml.Grid\Themes\ThemeResourcesDark.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Input\Themes\ThemeResourcesDark.xbf">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\ThemeResourcesDark.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesDark.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesDark.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Chart\Themes\ThemeResourcesLight.xbf">
+      <PackagePath>Telerik.UI.Xaml.Chart\Themes\ThemeResourcesLight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesLight.xbf">
+      <PackagePath>Telerik.UI.Xaml.Controls.Data\Themes\ThemeResourcesLight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.DataVisualization\Themes\ThemeResourcesLight.xbf">
+      <PackagePath>Telerik.UI.Xaml.DataVisualization\Themes\ThemeResourcesLight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Grid\Themes\ThemeResourcesLight.xbf">
+      <PackagePath>Telerik.UI.Xaml.Grid\Themes\ThemeResourcesLight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Input\Themes\ThemeResourcesLight.xbf">
+      <PackagePath>Telerik.UI.Xaml.Input\Themes\ThemeResourcesLight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Telerik\UI for Windows Universal Q2 2015\SDKs\Windows 8.1\Telerik UI for Windows Universal\Redist\CommonConfiguration\neutral\Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesLight.xbf">
+      <PackagePath>Telerik.UI.Xaml.Primitives\Themes\ThemeResourcesLight.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\bin\x86\Debug\MainView.xbf">
+      <PackagePath>MainView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\bin\x86\Debug\PlaylistView.xbf">
+      <PackagePath>PlaylistView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\bin\x86\Debug\AniTube.Windows.xr.xml">
+      <PackagePath>AniTube.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Pract\AniTube\AniTube\AniTube.Windows\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
